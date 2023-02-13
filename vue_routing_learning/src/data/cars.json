@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Chevy",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "name": "Yousef",
+            "number": "111-111-111"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ford",
+        "price": 11000,
+        "year": 2017,
+        "contact": {
+            "name": "Mark",
+            "number": "888-111-111"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Porsche",
+        "price": 38000,
+        "year": 2018,
+        "contact": {
+            "name": "Sam",
+            "number": "555-111-111"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mercedes Bens",
+        "price": 55000,
+        "year": 2022,
+        "contact": {
+            "name": "Tony",
+            "number": "441-111-111"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Skyline",
+        "price": 28000,
+        "year": 2003,
+        "contact": {
+            "name": "Mike",
+            "number": "233-111-111"
+        }
+    },
+    {
+        "id": 6,
+        "name": "BMW",
+        "price": 42000,
+        "year": 2023,
+        "contact": {
+            "name": "Yousef",
+            "number": "111-111-111"
+        }
+    }
+]
