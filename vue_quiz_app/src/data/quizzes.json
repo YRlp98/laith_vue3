@@ -91,79 +91,105 @@
         "questions": [
             {
                 "id": 1,
-                "text": "8 + 2(2 + 2)",
+                "text": "What is the chemical symbol for gold?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "A",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "text": "B",
+                        "text": "Ag",
                         "isCorrect": false
                     },
                     {
+                        "id": 2,
+                        "text": "Au",
+                        "isCorrect": true
+                    },
+                    {
                         "id": 3,
-                        "text": "C",
+                        "text": "Hg",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "D",
+                        "text": "Pb",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 2,
-                "text": "3 + 1",
+                "text": "What is the most abundant gas in Earth's atmosphere?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "4",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "text": "-4",
+                        "text": "Oxygen",
                         "isCorrect": false
                     },
                     {
+                        "id": 2,
+                        "text": "Nitrogen",
+                        "isCorrect": true
+                    },
+                    {
                         "id": 3,
-                        "text": "31",
+                        "text": "Carbon Dioxide",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "0",
+                        "text": "Helium",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 3,
-                "text": "9 + 1 - 1",
+                "text": "What is the chemical formula for water?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "9",
-                        "isCorrect": true
+                        "text": "H2SO4",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
-                        "text": "10",
+                        "text": "NaCl",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "9",
+                        "text": "CO2",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "1",
+                        "text": "H2O",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Which element is named after the smallest continent?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Europium",
                         "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Americium",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "Asium",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Australium",
+                        "isCorrect": true
                     }
                 ]
             }
@@ -171,83 +197,109 @@
     },
     {
         "id": 3,
-        "img": "https://img.freepik.com/free-vector/science-colorful-realistic-background_23-2148495051.jpg?w=1380&t=st=1671455865~exp=1671456465~hmac=2438cd5137d369c4e239562eb9e9a8504dd5e912bd10977491f872daa04b8626",
+        "img": "https://img.freepik.com/free-vector/biology-education-concept_23-2148481355.jpg?w=1380&t=st=1671482317~exp=1671482917~hmac=b9215c5ab5d5fb3898a7c3d3b1ce0b26a2239f9ea1dab936eb57fc2ed90fc30a",
         "name": "Biology",
         "questions": [
             {
                 "id": 1,
-                "text": "8 + 2(2 + 2)",
+                "text": "What is the powerhouse of the cell?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "A",
-                        "isCorrect": true
+                        "text": "Golgi Apparatus",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
-                        "text": "B",
+                        "text": "Nucleus",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "C",
-                        "isCorrect": false
+                        "text": "Mitochondria",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
-                        "text": "D",
+                        "text": "Endoplasmic Reticulum",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 2,
-                "text": "3 + 1",
+                "text": "Which blood vessels carry blood away from the heart?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "4",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "text": "-4",
+                        "text": "Veins",
                         "isCorrect": false
                     },
                     {
+                        "id": 2,
+                        "text": "Arteries",
+                        "isCorrect": true
+                    },
+                    {
                         "id": 3,
-                        "text": "31",
+                        "text": "Capillaries",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "0",
+                        "text": "Venules",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 3,
-                "text": "9 + 1 - 1",
+                "text": "What is the largest organ in the human body?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "9",
-                        "isCorrect": true
+                        "text": "Heart",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
-                        "text": "10",
+                        "text": "Lungs",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "9",
+                        "text": "Liver",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "text": "Kidneys",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the process by which plants make their own food?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Photosynthesis",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "text": "Respiration",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "Digestion",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "1",
+                        "text": "Transpiration",
                         "isCorrect": false
                     }
                 ]
@@ -256,83 +308,109 @@
     },
     {
         "id": 4,
-        "img": "https://img.freepik.com/free-vector/scientific-formulas-chalkboard_23-2148494010.jpg?w=1380&t=st=1671456006~exp=1671456606~hmac=bc1f9b423738e982f703fbaf2f7beb9b421db779ee870728c48341daf678aba9",
+        "img": "https://img.freepik.com/free-vector/science-physics-background_23-2148499378.jpg?w=1380&t=st=1671553983~exp=1671554583~hmac=2a1e97a8c2e1b50592eb7d26c0d365e7c60ddfec05a1dececa395bc9ab9b7cc1",
         "name": "Physics",
         "questions": [
             {
                 "id": 1,
-                "text": "8 + 2(2 + 2)",
+                "text": "What is the formula for force?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "A",
+                        "text": "F = ma",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
-                        "text": "B",
+                        "text": "E = mc²",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "C",
+                        "text": "V = IR",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "D",
+                        "text": "P = IV",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 2,
-                "text": "3 + 1",
+                "text": "What is the speed of light in a vacuum?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "4",
+                        "text": "299,792,458 m/s",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
-                        "text": "-4",
+                        "text": "3.00 x 10^8 km/h",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "31",
+                        "text": "186,282 miles/s",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "0",
+                        "text": "30 cm/s",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 3,
-                "text": "9 + 1 - 1",
+                "text": "What is the unit of resistance?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "9",
+                        "text": "Ohm",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
-                        "text": "10",
+                        "text": "Volt",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "9",
+                        "text": "Ampere",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "1",
+                        "text": "Watt",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the law of conservation of energy?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Energy cannot be created or destroyed, only converted from one form to another.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "text": "Energy is always conserved in any closed system.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "The total energy of a closed system is always decreasing.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Energy can be created out of nothing, but cannot be destroyed.",
                         "isCorrect": false
                     }
                 ]
@@ -341,83 +419,109 @@
     },
     {
         "id": 5,
-        "img": "https://img.freepik.com/free-photo/elevated-view-magnifying-glass-burnt-paper-knife-map_23-2147837103.jpg?size=626&ext=jpg",
+        "img": "https://img.freepik.com/free-vector/ancient-egyptian-seamless-pattern_23-2148827398.jpg?w=1380&t=st=1671457004~exp=1671457604~hmac=0f07114b5e5d5d5e3efde7a0b00e8c7d965f559a31d7b52f0a2f7a6d2e6be85f",
         "name": "History",
         "questions": [
             {
                 "id": 1,
-                "text": "8 + 2(2 + 2)",
+                "text": "Who was the first president of the United States?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "A",
+                        "text": "George Washington",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
-                        "text": "B",
+                        "text": "Thomas Jefferson",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "C",
+                        "text": "Abraham Lincoln",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "D",
+                        "text": "John F. Kennedy",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 2,
-                "text": "3 + 1",
+                "text": "Which country was not a member of the Axis Powers during World War II?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "4",
-                        "isCorrect": true
+                        "text": "Italy",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
-                        "text": "-4",
+                        "text": "Japan",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "31",
-                        "isCorrect": false
+                        "text": "Soviet Union",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
-                        "text": "0",
+                        "text": "Germany",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 3,
-                "text": "9 + 1 - 1",
+                "text": "Which civilization built Machu Picchu?",
                 "options": [
                     {
                         "id": 1,
-                        "text": "9",
-                        "isCorrect": true
+                        "text": "Maya",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
-                        "text": "10",
+                        "text": "Aztec",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
-                        "text": "9",
+                        "text": "Inca",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "text": "Olmec",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What was the main cause of World War I?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "The assassination of Archduke Franz Ferdinand",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "text": "The rise of Fascism in Europe",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "The invasion of Poland by Nazi Germany",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
-                        "text": "1",
+                        "text": "The sinking of the Lusitania",
                         "isCorrect": false
                     }
                 ]
@@ -425,7 +529,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "img": "https://img.freepik.com/free-vector/people-connecting-jigsaw-pieces-head-together_53876-64617.jpg?t=st=1671456143~exp=1671456743~hmac=25fccc6c64a1304727835b5559d9cece4235f4232f6200ecfe75ade8ea739c53",
         "name": "Psychology",
         "questions": [
@@ -435,75 +539,81 @@
                 "options": [
                     {
                         "id": 1,
-                        "text": "A",
-                        "isCorrect": true
+                        "text": "What is the term for the study of how people perceive, remember, think, speak, and solve problems?",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "Cognitive psychology",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "text": "Social psychology",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "text": "Developmental psychology",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 4,
+                                "text": "Clinical psychology",
+                                "isCorrect": false
+                            }
+                        ]
                     },
                     {
                         "id": 2,
-                        "text": "B",
-                        "isCorrect": false
+                        "text": "What is the term for a mental illness characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities?",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "Depression",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "text": "Anxiety",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "text": "Bipolar disorder",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 4,
+                                "text": "Schizophrenia",
+                                "isCorrect": false
+                            }
+                        ]
                     },
                     {
                         "id": 3,
-                        "text": "C",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "text": "D",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "text": "3 + 1",
-                "options": [
-                    {
-                        "id": 1,
-                        "text": "4",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "text": "-4",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "text": "31",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "text": "0",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "9 + 1 - 1",
-                "options": [
-                    {
-                        "id": 1,
-                        "text": "9",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "text": "10",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "text": "9",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "text": "1",
-                        "isCorrect": false
+                        "text": "What is the term for the study of the relationship between the brain and behavior?",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "Neuropsychology",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "text": "Personality psychology",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "text": "Abnormal psychology",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 4,
+                                "text": "Industrial-organizational psychology",
+                                "isCorrect": false
+                            }
+                        ]
                     }
                 ]
             }
